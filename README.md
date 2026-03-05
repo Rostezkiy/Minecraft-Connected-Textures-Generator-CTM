@@ -43,7 +43,7 @@ It turns a single block texture into the **47 unique tiles** required for seamle
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Rostezkiy/Minecraft-Connected-Textures-Generator-CTM-.git
+    git clone https://github.com/Rostezkiy/Minecraft-Connected-Textures-Generator-CTM.git
     cd Minecraft-CTM-Generator
     ```
 
